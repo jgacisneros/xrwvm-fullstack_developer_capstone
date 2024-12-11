@@ -124,3 +124,11 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+.custom-height-card { 
+    height: 300px;
+} 
+.custom-card-img { 
+    height: 100%;
+    object-fit: cover; 
+}
